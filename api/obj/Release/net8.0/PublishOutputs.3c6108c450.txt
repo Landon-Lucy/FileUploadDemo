@@ -1,0 +1,7 @@
+C:\Users\landon.ginn\webdev\fileUploadDemo\FileUploadDemo\api\out\api.exe
+C:\Users\landon.ginn\webdev\fileUploadDemo\FileUploadDemo\api\out\appsettings.Development.json
+C:\Users\landon.ginn\webdev\fileUploadDemo\FileUploadDemo\api\out\appsettings.json
+C:\Users\landon.ginn\webdev\fileUploadDemo\FileUploadDemo\api\out\api.dll
+C:\Users\landon.ginn\webdev\fileUploadDemo\FileUploadDemo\api\out\api.deps.json
+C:\Users\landon.ginn\webdev\fileUploadDemo\FileUploadDemo\api\out\api.runtimeconfig.json
+C:\Users\landon.ginn\webdev\fileUploadDemo\FileUploadDemo\api\out\api.pdb
